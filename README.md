@@ -7,7 +7,7 @@ Spring 2025
 **Final release party**: 9:30-11:30 AM, Tuesday, May 6
 
 [Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
-[Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)
+[Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)  
 [Collaborative Glossary](https://docs.google.com/document/d/1ZEuJ2BPR2Gbh65tMgPfvKOBvWIORiKy-w-4yFI0g1vk/edit?usp=sharing)
 
 You can post questions to the [class email list](25sp-cs-488-01@lclark.edu) 24/7!
@@ -23,7 +23,7 @@ You will also be expected to seek out and read articles, tutorials, etc. as they
 This course will cover some theory and give you a great deal of practice in developing a large, complex piece of
 software as part of a team. We will focus specifically on the eXtreme Programming (XP) technique.
 
-CS 383 (Algorithm Design & Analysis) is a prerequisite for this course. You are expected to be proficient with the
+CS 383 Algorithm Design & Analysis is a prerequisite for this course. You are expected to be proficient with the
 Python programming language and common data structures and algorithms. There will be a small amount of lecture at the
 beginning of each day, but you will spend most of your time in class building software together.
 
@@ -32,7 +32,7 @@ the dice game *Qwixx* ([rules](https://www.ultraboardgames.com/qwixx/game-rules.
 [scoresheet](https://boardgamegeek.com/file/download_redirect/e183511b21ad0dc4f4fe14cc08d1d9870da8376730d289e9/SingleQwixxScoresheetA4.pdf)).
 
 You will spend the vast majority of the semester working with a team to produce a single large software system. These
-are not the contrived projects you've seen in past courses; they are real-world problems for which our customers need
+are not the contrived projects you've seen in past courses; they are real-world problems for which our "customers" need
 software solutions.
 
 ## Learning Objectives
@@ -113,7 +113,7 @@ Some tips:
   you watched another student or two write code. Sometimes you wrote code yourself. When did you learn the most? I'm 
   betting it's the last one. It's easy to zone out when you're just watching and to ignore your audience when you're
   doing both the thinking and the typing.
-- Keep up. If you feel you need more knowledge or practice, get it. I can help with this.
+- **Keep up.** If you feel you need more knowledge or practice, get it. I can help with this.
 
 These are challenging issues, especially for those of us who pride ourselves on understanding the formal, unambiguous
 rules of computing. Working with people is, nonetheless, an important life skill. This class, where the stakes are
