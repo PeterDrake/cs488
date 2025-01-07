@@ -6,8 +6,16 @@
 * For this class, who do we imagine will be playing the roles listed in chapter 2?
 
 # eXtreme Programming
+* [Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/software_development/xp.md)
+    * Values and practices
+    * Iteration
 
 # Syllabus
+* Learning objectives
+* Ungrading
+  * For this class, "above and beyond" means learning about things I haven't covered; this should naturally arise in your projects
+  * Keep a journal!
+* Assignment / class structure
 
 # GitHub
 * Working with remote repos
@@ -26,5 +34,4 @@
 * Coding (with each team as a single mob)
 
 # For Next Time
-
 * Reading: Ko 3-4
