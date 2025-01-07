@@ -36,7 +36,7 @@ Python package for building GUIs. The name stands for "Tk interface", where "Tk"
 [Tk Documentation](https://tkdocs.com/tutorial/)
 * Be sure to choose Show > Python on the right side
 * You don't have to worry about installation, but run the first program at the bottom of the installation page
-    * TTk ("themed Tk") makes interfaces not look like they're from 1995
+    * Ttk ("themed Tk") makes interfaces not look like they're from 1995
     * `root` is an instance of `Tk` -- the top-level window
     * The next line creates a button and installs it within the root window
     * The last line starts the event loop
