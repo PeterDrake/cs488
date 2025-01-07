@@ -51,7 +51,7 @@ Challenge for everyone simultaneously: build a running-sum adding machine. If yo
 # Standalone Python Application
 
 * Install the pyinstaller package
-* In terminal (within PyCharm) and `pyinstaller -F src/tk_hello.py'
+* In terminal (within PyCharm) do `pyinstaller -F src/tk_hello.py`
 * The application should be in `dist`
 
 # For Next Time
