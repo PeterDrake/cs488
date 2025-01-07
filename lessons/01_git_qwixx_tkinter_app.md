@@ -31,6 +31,30 @@ Play.
 
 # Tkinter
 
+Python package for building GUIs. The name stands for "Tk interface", where "Tk" ("toolkit") is a multi-language GUI-building library.
+
+[Tk Documentation](https://tkdocs.com/tutorial/)
+* Be sure to choose Show > Python on the right side
+* You don't have to worry about installation, but run the first program at the bottom of the installation page
+    * TTk ("themed Tk") makes interfaces not look like they're from 1995
+    * `root` is an instance of `Tk` -- the top-level window
+    * The next line creates a button and installs it within the root window
+    * The last line starts the event loop
+* A First (Real) Example
+* Tk Concepts
+  * Offensive terminology
+* Quick header skim of Basic Widgets
+* Even quicker skim of other section titles
+
+Challenge for everyone simultaneously: build a running-sum adding machine. If you get done early, build a four-function calculator.
+
 # Standalone Python Application
 
-# First Day Survey
+* Install the pyinstaller package
+* In terminal (within PyCharm) and `pyinstaller -F src/tk_hello.py'
+* The application should be in `dist`
+
+# For Next Time
+
+* Do first day survey
+* Reading: Ko chapters 1-2
