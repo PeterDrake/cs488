@@ -2,7 +2,7 @@
 
 # Git
 
-Walk through steps on [Pythonorama git](NEED URL), with everyone following in lock step using `student` account:
+Walk through steps on [Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/software_development/git.md), with everyone following in lock step using `student` account:
 * Installation verification
   * Install nano or another text editor first
 * Configuration
