@@ -15,7 +15,8 @@ You can post questions to the [class email list](25sp-cs-488-01@lclark.edu) 24/7
 **Course texts:**  
 Ko, [*Cooperative Software Development*](https://faculty.washington.edu/ajko/books/cooperative-software-development/)
 (online)  
-Refactoring.Guru, [*Design Patterns*](https://refactoring.guru/design-patterns) (online)
+Refactoring.Guru, [*Design Patterns*](https://refactoring.guru/design-patterns) (online)  
+Roseman, [*TkDocs Tutorial*](https://tkdocs.com/tutorial/index.html) (online)
 
 You will also be expected to seek out and read articles, tutorials, etc. as they become relevant to your project.
 
