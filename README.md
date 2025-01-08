@@ -1,25 +1,31 @@
 # CS 488 Software Development
 Spring 2025
 
-**Instructor**: [Peter Drake](https://sites.google.com/a/lclark.edu/drake/home)
-(includes my [appointment calendar](https://calendar.app.google/XiynwHJNprXgGxWd8))  
+**Instructor**: [Peter Drake](https://sites.google.com/a/lclark.edu/drake/home)   
 **Meetings**: 12:30-3:30 PM Tu/Th, Olin 305  
 **Final release party**: 9:30-11:30 AM, Tuesday, May 6
 
-[Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
-[Class Notes](https://github.com/PeterDrake/cs488/tree/main/lessons)  
-[Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)  
-[Collaborative Glossary](https://docs.google.com/document/d/1ZEuJ2BPR2Gbh65tMgPfvKOBvWIORiKy-w-4yFI0g1vk/edit?usp=sharing)
+## Getting Help
+There will be plenty of time in class to ask me questions, but if you need more:
+* Write to the [course email list](25sp-cs-488-01@lclark.edu) 24/7
+* [Make an appointment to see me](https://calendar.app.google/XiynwHJNprXgGxWd8) or drop by my office
 
-You can post questions to the [class email list](25sp-cs-488-01@lclark.edu) 24/7!
-
-**Course texts:**  
+## Course Texts 
 Ko, [*Cooperative Software Development*](https://faculty.washington.edu/ajko/books/cooperative-software-development/)
 (online)  
 Refactoring.Guru, [*Design Patterns*](https://refactoring.guru/design-patterns) (online)  
 Roseman, [*TkDocs Tutorial*](https://tkdocs.com/tutorial/index.html) (online)
 
 You will also be expected to seek out and read articles, tutorials, etc. as they become relevant to your project.
+
+## Links
+[Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
+[Class Notes](https://github.com/PeterDrake/cs488/tree/main/lessons)  
+[Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)  
+Teams (to be assigned on second day of class)
+
+## Collaborative Documents
+[Glossary](https://docs.google.com/document/d/1ZEuJ2BPR2Gbh65tMgPfvKOBvWIORiKy-w-4yFI0g1vk/edit?usp=sharing)
 
 ## Overview
 This course will cover some theory and give you a great deal of practice in developing a large, complex piece of  software as part of a team. We will focus specifically on the eXtreme Programming (XP) technique.
