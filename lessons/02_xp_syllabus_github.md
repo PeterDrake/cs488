@@ -16,6 +16,7 @@
   * For this class, "above and beyond" means learning about things I haven't covered; this should naturally arise in your projects
   * Keep a journal!
 * Assignment / class structure
+  * Some additional readings will be added later
 
 # GitHub
 * Working with remote repos

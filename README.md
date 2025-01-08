@@ -7,6 +7,7 @@ Spring 2025
 **Final release party**: 9:30-11:30 AM, Tuesday, May 6
 
 [Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
+[Class Notes](https://github.com/PeterDrake/cs488/tree/main/lessons)  
 [Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)  
 [Collaborative Glossary](https://docs.google.com/document/d/1ZEuJ2BPR2Gbh65tMgPfvKOBvWIORiKy-w-4yFI0g1vk/edit?usp=sharing)
 
