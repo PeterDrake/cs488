@@ -17,6 +17,8 @@
   * Keep a journal!
 * Assignment / class structure
   * Some additional readings will be added later
+  * Beware that some assignments are hiding behind the View More button!
+  * Use the tech to get the reminders you need
 
 # GitHub
 * Working with remote repos
