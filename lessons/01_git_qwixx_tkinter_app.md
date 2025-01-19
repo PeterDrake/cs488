@@ -27,7 +27,8 @@ Mistakes
 
 # Qwixx
 
-Play.
+* [Rules](https://www.ultraboardgames.com/qwixx/deluxe.php)
+* Play
 
 # Tkinter
 
