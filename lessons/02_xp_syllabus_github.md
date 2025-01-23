@@ -30,6 +30,8 @@
 
 # Projects
 * Clone repos
+  * Invite everyone
+  * Make draft issues real
 * Planning (in teams)
 
 # Starting Spike Iteration 1
