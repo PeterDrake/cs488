@@ -1,5 +1,9 @@
-# Discussion of Ko 1-2
+# Teams
+* Rearrange seats
+* Why haven't you made ungrading appointments?
+* Log into lab machines
 
+# Discussion of Ko 1-2
 * Who is the person in the chapter 1 image?
 * Class comments / reactions
 * Have each co-seated group discuss one of the chapter 1 questions, then report to class
@@ -15,7 +19,7 @@
 * Ungrading
   * For this class, "above and beyond" means learning about things I haven't covered; this should naturally arise in your projects
   * Keep a journal!
-* Assignment / class structure
+* Assignments / class structure
   * Some additional readings will be added later
   * Beware that some assignments are hiding behind the View More button!
   * Use the tech to get the reminders you need
@@ -24,9 +28,7 @@
 * Working with remote repos
 * GitHub Projects and Issues
 
-# Teams and Projects
-* Rearrange seats
-* Log into accounts
+# Projects
 * Clone repos
 * Planning (in teams)
 
