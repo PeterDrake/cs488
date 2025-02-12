@@ -10,6 +10,7 @@
   * Customer choose stories
 * Planning
   * Overall design -- this may take considerable time!
+    * Show a whiteboard diagram of your plan for the first iteration!
   * Pairs
   * Who's working on what
   * Set up initial files in repo
