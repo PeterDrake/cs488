@@ -7,7 +7,7 @@
   * Estimate user stories
     * Remember that iterations are now two weeks!
   * Estimate initial velocity
-  * Customer choose stories
+  * Customers choose stories
 * Planning
   * Overall design -- this may take considerable time!
     * Show a whiteboard diagram of your plan for the first iteration!
