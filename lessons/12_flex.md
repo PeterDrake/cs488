@@ -8,4 +8,5 @@ Do the debugging from lesson 8 that we missed because of snow.
 * Create a build and send it to both me and your customer, with complete instructions on how to install and run it.
 
 # For Next Time
+CFGBG is Saturday!
 Reflection on iteration 1 is due tonight.
