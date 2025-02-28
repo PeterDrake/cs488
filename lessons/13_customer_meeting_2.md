@@ -5,4 +5,4 @@ Attendance
 * Plan and code
 
 # For Next Time
-Relax!
+Guest speaker on DevOps
