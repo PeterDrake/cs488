@@ -1,5 +1,9 @@
-class Expression:
-    pass
+from abc import ABC, abstractmethod
+
+class Expression(ABC):
+    @abstractmethod
+    def evaluate(self):
+        pass
 
 class Number(Expression):
     def __init__(self, n):
@@ -7,7 +11,7 @@ class Number(Expression):
     def evaluate(self):
         return self.n
 
-class Operation(Expression):
+class Operation(Expression):  # The warning implementing abstract methods can be ignored
     def __init__(self, *operands):
         self.operands = operands
 
