@@ -4,7 +4,7 @@
 * Solution: Make a class for each strategy. They all implement a common interface.
 * [Pros and cons](https://refactoring.guru/design-patterns/strategy)
   * TPS: In Python, how could you avoid defining a class for each strategy?
-  * Example: key argument to sorted
+  * Example: key argument to sorted (sorting strings lexicographically, by length, or by last character)
 
 # Iteration 5
 * Code
