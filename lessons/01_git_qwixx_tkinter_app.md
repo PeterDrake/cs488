@@ -53,7 +53,3 @@ Challenge for everyone simultaneously: build a running-sum adding machine. If yo
 * In terminal (within PyCharm) do `pyinstaller -F src/tk_hello.py`
 * The application should be in `dist`
 
-# For Next Time
-
-* Do first day survey
-* Reading: Ko chapters 1-2

@@ -40,5 +40,3 @@
 * Demonstrate one subtask to show coding process
 * Coding (with each team as a single mob)
 
-# For Next Time
-* Reading: Ko 3-4

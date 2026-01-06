@@ -14,6 +14,3 @@
   * Pairs
   * Who's working on what
   * Set up initial files in repo
-
-# For Next Time
-Read [Type hints cheat sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)

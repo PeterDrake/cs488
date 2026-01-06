@@ -7,6 +7,3 @@
 
 # Iteration 2
 * Code
-
-# For Next Time
-Relax.

@@ -8,5 +8,13 @@
 * Warning: Don't modify the collection while it is being iterated through
 * [iter.py](../src/iter.py)
 
-# Iteration 5
+# Observer
+* Also known as Listener
+* Problem: Many objects want to be notified when certain events happen.
+* Solution: Have Subscribers subscribe to a Publisher, who keeps track of them. When an event occurs, it goes through its list of Subscribers, notifying each one.
+* [Pseudocode diagram](https://refactoring.guru/design-patterns/observer)
+* [Python code](https://refactoring.guru/design-patterns/observer/python/example)
+
+# Iteration 4
 * Code
+* Send build to customer
