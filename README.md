@@ -25,7 +25,7 @@ You will also be expected to seek out and read articles, tutorials, etc. as they
 Teams (to be assigned on second day of class)
 
 ## Overview
-This course will cover some theory and give you a great deal of practice in developing a large, complex piece of software as part of a team. We will focus specifically on the eXtreme Programming (XP) methodology.
+This course will cover some theory and give you a great deal of practice in developing a large, complex piece of software as part of a team. We will focus specifically on the eXtreme Programming (XP) process.
 
 CS 383 Algorithm Design & Analysis is a prerequisite for this course. You are expected to be proficient with the Python programming language and common data structures and algorithms. There will be a small amount of lecture at the beginning of each day, but you will spend most of your time in class building software together.
 

@@ -5,7 +5,7 @@
 # Discussion of Ko 1-2
 * Who is the person in the chapter 1 image?
 * Class comments / reactions
-* Have each co-seated group discuss one of the chapter 1 questions, then report to class
+* Have each team discuss one of the chapter 1 questions, then report to class
 * For this class, who do we imagine will be playing the roles listed in chapter 2?
 
 # eXtreme Programming
@@ -27,13 +27,8 @@
 * Working with remote repos
 * GitHub Projects and Issues
 
-# Projects
-* Clone repos
-  * Invite everyone
-  * Make draft issues real
-* Planning (in teams)
-
 # Starting Spike Iteration 1
+* Clone repos
 * Joint customer meeting to discuss stories
 * Planning (in teams)
 * Demonstrate one subtask to show coding process
