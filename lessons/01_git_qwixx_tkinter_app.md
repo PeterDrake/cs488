@@ -28,22 +28,14 @@ Mistakes
 * [Rules](https://www.ultraboardgames.com/qwixx/deluxe.php)
 * Play
 
-# Tkinter
+# PySide6
 
-Python package for building GUIs. The name stands for "Tk interface", where "Tk" ("toolkit") is a multi-language GUI-building library.
+Python package for building GUIs.
 
-[Tk Documentation](https://tkdocs.com/tutorial/)
-* Be sure to choose Show > Python on the right side
-* You don't have to worry about installation, but run the first program at the bottom of the installation page
-    * Ttk ("themed Tk") makes interfaces not look like they're from 1995
-    * `root` is an instance of `Tk` -- the top-level window
-    * The next line creates a button and installs it within the root window
-    * The last line starts the event loop
-* A First (Real) Example
-* Tk Concepts
-  * Offensive terminology
-* Quick header skim of Basic Widgets
-* Even quicker skim of other section titles
+[PySide6 tutorial](https://www.pythonguis.com/pyside6-tutorial/)
+* Install package
+* Work through first tutorial (creating your first app together)
+* Everyone work through signals, widgets, and layouts
 
 Challenge for everyone simultaneously: build a running-sum adding machine. If you get done early, build a four-function calculator.
 

@@ -1,6 +1,5 @@
 # Teams
 * Rearrange seats
-* Why haven't you made ungrading appointments?
 * Log into lab machines
 
 # Discussion of Ko 1-2
