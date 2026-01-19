@@ -26,6 +26,7 @@ Mistakes
 # Qwixx
 
 * [Rules](https://www.ultraboardgames.com/qwixx/deluxe.php)
+  * Note typo: a penalty is worth -5, not 75
 * Play
 
 # PySide6

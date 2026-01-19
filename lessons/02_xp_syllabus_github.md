@@ -25,12 +25,16 @@
 
 # GitHub
 * Working with remote repos
+  * [Git credential manager](https://github.com/git-ecosystem/git-credential-manager/blob/main/README.md)
 * GitHub Projects and Issues
 
 # Starting Spike Iteration 1
 * Clone repos
 * Joint customer meeting to discuss stories
 * Planning (in teams)
+  * UML class diagram
+    * Classes are joined by is-a and has-a arrows
+    * Optionally list attributes on top, methods on bottom
 * Demonstrate one subtask to show coding process
 * Coding (with each team as a single mob)
 
