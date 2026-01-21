@@ -24,13 +24,13 @@ Mistakes
   * Works, but branch has no name until you give it one
 
 # Qwixx
-
+(1:00)  
 * [Rules](https://www.ultraboardgames.com/qwixx/deluxe.php)
   * Note typo: a penalty is worth -5, not 75
 * Play
 
 # PySide6
-
+(1:30)  
 Python package for building GUIs.
 
 [PySide6 tutorial](https://www.pythonguis.com/pyside6-tutorial/)
@@ -41,6 +41,7 @@ Python package for building GUIs.
 Challenge for everyone simultaneously: build a running-sum adding machine. If you get done early, build a four-function calculator.
 
 # Standalone Python Application
+(2:30)  
 * Install the pyinstaller package
 * In terminal (within PyCharm) do `pyinstaller -F src/adder.py`
 * The application should be in `dist`
