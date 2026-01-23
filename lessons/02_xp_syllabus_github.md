@@ -35,3 +35,5 @@
 2:40
 * Clone repos
 * Joint customer meeting to discuss stories
+  * Teams estimate stories
+  * I choose stories for this iteration
