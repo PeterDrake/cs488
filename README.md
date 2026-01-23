@@ -13,8 +13,7 @@ There will be plenty of time in class to ask me questions, but if you need more:
 ## Course Texts 
 Ko, [*Cooperative Software Development*](https://faculty.washington.edu/ajko/books/cooperative-software-development/)
 (online)  
-Refactoring.Guru, [*Design Patterns*](https://refactoring.guru/design-patterns) (online)  
-Roseman, [*TkDocs Tutorial*](https://tkdocs.com/tutorial/index.html) (online)
+Refactoring.Guru, [*Design Patterns*](https://refactoring.guru/design-patterns) (online) 
 
 You will also be expected to seek out and read articles, tutorials, etc. as they become relevant to your project.
 
@@ -22,7 +21,7 @@ You will also be expected to seek out and read articles, tutorials, etc. as they
 [Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
 [Class Notes](https://github.com/PeterDrake/cs488/tree/main/lessons)  
 [Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)  
-Teams (to be assigned on second day of class)
+[Teams](https://docs.google.com/document/d/1hzpYA-r1VWuiBeyEyP3n-oQIBQ9PKjEpypHfhrMqXmA/edit?usp=sharing)
 
 ## Overview
 This course will cover some theory and give you a great deal of practice in developing a large, complex piece of software as part of a team. We will focus specifically on the eXtreme Programming (XP) process.
