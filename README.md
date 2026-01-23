@@ -62,23 +62,3 @@ Programming will happen in class. Outside of class, there will be a variety of r
 You are strongly encouraged to keep a journal as you work, so you can remember what you worked on, whom you worked with, what problems you encountered, and how you resolved them. Being able to communicate these things in writing is not busywork but one of the learning objectives of the course!
 
 There are no exams. We will hold a release party during the final exam period.
-
-## Group dynamics
-Some of the most valuable lessons you'll learn in this class have nothing to do with Python or Git. They are about working in a team under stress. I can’t claim to be an expert in this area, but I can give some advice, especially in the context of eXtreme Programming.
-
-Remember the XP values: simplicity, communication, feedback, respect, and courage. These are not just about the software but also about our relationships with each other (and the customer). **We must have the courage to address problems by communicating respectfully with each other.**
-
-In a Platonic idealized XP team, all members are at the same level of skill and experience (perhaps with differing areas of expertise). We all know this does not happen in the real world, including in this class. **We must all work to learn what we don't know and teach others what we do.** This is true in the real world and even more so in the classroom (where learning is the highest priority).
-
-**It is not healthy for the team for one pair -- or worse, one person -- to take over part or all of the project.** The joke is that such people become targets for meteors. Less hyperbolically, it is very easy to imagine a situation where the one person who understands a central class or library is sick and the rest of the team can't do anything that day. Even if it doesn't come to this, everyone is unhappy if one person feels "I did all the work" and another feels "I never got to do anything".
-
-To avoid this:
-- **Make sure everyone is included in all pair or group decisions.** Genuinely listen to what others have to say. Some tips:
-  - Don't interrupt.
-  - Paraphrase what the other person said or asked. If you don't understand, ask.
-  - Be aware of how often different people are speaking. If every other utterance is yours, you may be speaking too often. If you go for an hour without saying anything, you're probably not speaking enough.
-- **Don't be a hero.** It is good to make a contribution, even an above-average contribution. It is not good to take on a bunch of work because you believe (correctly or otherwise) that you can do it better or faster by yourself. Specifically, **never code alone or outside of class**. Feel free to do research and practice outside of class, but then...
-- **The rookie should drive.** When someone doesn't understand a concept, a class, or a design element, they should be doing the typing. Think back to your CS classes. Sometimes the instructor projected code as they wrote it. Sometimes you watched another student or two write code. Sometimes you wrote code yourself. When did you learn the most? I'm betting it's the last one. It's easy to zone out when you're just watching and to ignore your audience when you're doing both the thinking and the typing.
-- **Keep up.** If you feel you need more knowledge or practice, get it. I can help with this.
-
-These are challenging issues, especially for those of us who pride ourselves on understanding the formal, unambiguous rules of computing. Working with people is, nonetheless, an important life skill. This class, where the stakes are relatively low, is an excellent opportunity to practice.
