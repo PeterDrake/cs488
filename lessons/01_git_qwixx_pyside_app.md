@@ -40,15 +40,4 @@ Python package for building GUIs.
 
 Challenge for everyone simultaneously: build a running-sum adding machine. If you get done early, build a four-function calculator.
 
-# Standalone Python Application
-(2:30)  
-* Install the pyinstaller package
-* In terminal (within PyCharm) do `pyinstaller -F src/adder.py`
-* The application should be in `dist`
-  * Copy it to the desktop and try to run it
-    * Linux: right click, run as program
-    * Windows: double click?
-    * MacOS: double click?
-  * Pyinstaller produces a build for the OS you're on
-
 
