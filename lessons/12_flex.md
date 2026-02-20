@@ -1,5 +1,5 @@
 # Flex
-Do the debugging from lesson 8 that we missed because of snow.
+No new content today -- work on your project!
 
 # Iteration 1
 * Code
