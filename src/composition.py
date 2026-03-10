@@ -100,10 +100,10 @@ class MeterMaker:
 
 class NumberUnit:
     def __init__(self, number, unit):
-        self.number_maker = number
-        self.unit_maker = unit
+        self.number = number
+        self.unit = unit
     def __repr__(self):
-        return f'{self.number_maker.number()} {self.unit_maker.unit()}'
+        return f'{self.number.number()} {self.unit.unit()}'
 
 print(NumberUnit(OneMaker(), FootMaker()))
 print(NumberUnit(TwoMaker(), FootMaker()))
