@@ -11,7 +11,8 @@ class Number(Expression):
     def evaluate(self):
         return self.n
 
-class Operation(Expression):  # The warning implementing abstract methods can be ignored
+#noinspection PyAbstractClass
+class Operation(Expression):
     def __init__(self, *operands):
         self.operands = operands
 
