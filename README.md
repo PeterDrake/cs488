@@ -3,7 +3,7 @@ Spring 2026
 
 **Instructor**: [Peter Drake](https://sites.google.com/a/lclark.edu/drake/home)   
 **Meetings**: 12:30-3:30 PM Tu/Th, Olin 305  
-**Final release party**: 9:30-11:30 AM, Monday, May 5
+**Final release party**: 9:30-11:30 AM, Tuesday, May 5
 
 ## Getting Help
 There will be plenty of time in class to ask me questions, but if you need more:
