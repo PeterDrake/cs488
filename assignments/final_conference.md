@@ -1,6 +1,6 @@
 # Final Conference
 
-Make [an appointment](https://calendar.app.google/Q9xY6qLg96KNtzFJA) to meet with me to discuss your final grade.
+Make [an appointment](https://calendar.app.google/CnhwosaHYcy8x3ubA) to meet with me to discuss your final grade.
 
 Be prepared to discuss what [grade](https://docs.google.com/document/d/1xXvmiHJB66jHNd4ZFUIw1FyP-7K8a1wr882bVuA3naM/edit?usp=sharing) you should have for the class and why.
 
