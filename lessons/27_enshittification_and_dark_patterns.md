@@ -1,4 +1,6 @@
 # Enshittification
+* [A Day in the Life of an Enfhittificator](https://www.youtube.com/watch?v=T4Upf_B9RLQ)
+* Discussion
 
 # Dark Patterns
 * Go through each one
